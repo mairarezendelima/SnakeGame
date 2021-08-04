@@ -1,0 +1,1 @@
+Jogo da Cobrinha! Snake Game usando HTML, CSS e Javascript.
